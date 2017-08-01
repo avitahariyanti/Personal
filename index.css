@@ -9,21 +9,29 @@
 	font-size: 45px;
 }
 .h2{
-	font-family: 'Antic Slab', serif;
+	font-family: 'Josefin+Sans', serif;
 	font-size: 15px;
-	font-weight : 15px;
+	font-weight : 10px;
+	text-align:justify
+	line-height : 1.5 em;
 }
 
 .body{
 	font-family: 'Rokkitt', serif;
 	line-height: 1.5em;
-	align=justify;
+	text-align:justify;
+	padding: 10px;
+	text-align: justify;
 
 }
-
+.p{font-family: 'Caveat', cursive;
+	line-height: 1.5em;
+	text-align:justify;
+	font-size:25px}
+	
 .iconsize{
-	width: 20px;
-    height: 20px;
+	width: 30px;
+    height: 30px;
 }
 
 .profile{
@@ -45,7 +53,7 @@ nav {
 	height:50px; 
 	line-height:50px; 
 	position:relative;
-	width:770px;
+	width:570px;
 	margin:auto;
 	margin-top:80px;
 }
@@ -68,6 +76,15 @@ nav ul li a:hover {
 	display:block;
 }
 
-
-
+.div{
+	background-color:#900; 
+	height:50px; 
+	line-height:50px; 
+	position:relative;
+	width:570px;
+	margin:auto;
+	margin-top:80px;
+}
+.ps{
+	font-family: 'Rokkit', cursive; font-style: bold>}
 
