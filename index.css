@@ -19,7 +19,6 @@
 .body{
 	font-family: 'Rokkitt', serif;
 	line-height: 1.5em;
-	text-align:justify;
 	padding: 10px;
 	text-align: justify;
 
@@ -40,6 +39,14 @@
 	align: middle;
 }
 
+.img{
+	width: 350px;
+    height: 290px;
+	padding-top:5%;
+	padding-right: 1%;
+	padding-bottom: 10%;
+	padding-left:2%
+}
 * {margin:0; padding:0;}
 
 body {
